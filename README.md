@@ -47,6 +47,30 @@ Designed the full product UX end to end (discover feed, user profiles, hyperloca
 
 ---
 
+## Ahead of its time
+
+In January 2014, Orbit shipped all of the following in one app:
+
+- Social commerce on a following and discover feed
+- @username storefronts with transaction-backed ratings
+- Price-overlay product grids with real-time NEW badges
+- Geo-radius filtering for hyperlocal discovery
+- In-app messaging and meetup coordination for peer transactions
+
+Compare the timeline:
+
+| Pattern | Orbit | Facebook Marketplace | Instagram Shopping |
+|---|---|---|---|
+| Launch | **Jan 2014** | Oct 2016 | Mar 2018 |
+| Hyperlocal radius discovery | Yes | Yes, 2 years later | No |
+| Seller profile as storefront | Yes, @username based | Partial | Yes, 4 years later |
+| Following and discover feed on listings | Yes | No | Yes, 4 years later |
+| Social trust layer on P2P commerce | Yes, two-sided ratings | Partial | Yes |
+
+The patterns Orbit pioneered (social trust layers on peer commerce, hyperlocal radius filters, and activity feeds tied to listings) are now table stakes in every major marketplace app.
+
+---
+
 ## Intellectual property
 
 Patent application and trademark registration secured through IP counsel at Foley and Hoag. See `docs/PATENT_AND_TRADEMARK.md` for engagement details.
